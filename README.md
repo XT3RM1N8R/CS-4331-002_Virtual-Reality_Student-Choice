@@ -1,5 +1,7 @@
 # Student's Choice: Soundstage VR
 
+![talk.Sokolov.jpg - Talk Screenshot/Image](https://github.com/XT3RM1N8R/CS-4331-002_Virtual-Reality_Student-Choice/blob/master/Deliverables/talk.Sokolov.jpg)
+
 ## Slides
 
 [Slides](slides.com/dariensokolov/soundstage-vr)
