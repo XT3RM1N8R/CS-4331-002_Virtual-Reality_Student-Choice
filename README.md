@@ -71,6 +71,6 @@ References
 
 Some information was recovered from archived versions of webpages that cannot be linked to.
 
-Here is the old link to the website: [www.soundstagevr.com](soundstagevr.com)
+Here is the old link to the website: [soundstagevr.com](http://soundstagevr.com)
 
 It now brings users to the GitHub repository for this software.
